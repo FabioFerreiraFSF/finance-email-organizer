@@ -1,5 +1,7 @@
 # Finance Email Organizer
 
+[![tests](https://github.com/FabioFerreiraFSF/finance-email-organizer/actions/workflows/tests.yml/badge.svg)](https://github.com/FabioFerreiraFSF/finance-email-organizer/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 **Stop downloading, renaming and filing invoices by hand.** This Python tool reads a finance inbox, finds invoices, ACH remittance advices and receipts, and files each PDF with a standard name and folder. It also writes a log that is ready for Excel or Power BI.
 
 ![Demo run on the fake sample inbox](docs/demo.png)
