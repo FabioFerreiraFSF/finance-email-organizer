@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name": "Northwind Advisory Group",
+    "entities": [
+      {"code": "NWA", "name": "Northwind Advisory LLC", "tax_id": "12-3456789"},
+      {"code": "NWC", "name": "Northwind Capital LLC", "tax_id": "98-7654321"}
+    ]
+  },
+  "own_domains": ["northwind-advisory.example"],
+  "vendor_aliases": {
+    "acme-supplies.example": "Acme Office Supplies"
+  },
+  "content_aliases": {
+    "bluewave telecom": "BlueWave Telecom"
+  },
+  "platform_domains": ["billing-platform.example", "sendgrid.net"],
+  "trusted_link_domains": ["invoices.acme-supplies.example"],
+  "attachments_only_senders": ["ap-forward@northwind-advisory.example"],
+  "output_dir": "organized",
+  "download_dir": "downloads"
+}

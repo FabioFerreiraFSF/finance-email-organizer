@@ -1,0 +1,66 @@
+From: receipts@clouddesk.example
+To: finance@northwind-advisory.example
+Subject: Your CloudDesk receipt #CD-40917
+Date: Wed, 21 Oct 2026 07:55:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2774164337379732889=="
+
+--===============2774164337379732889==
+Content-Type: multipart/alternative;
+ boundary="===============7924902931252532667=="
+
+--===============7924902931252532667==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Thanks for your payment! Your receipt is attached.
+
+--===============7924902931252532667==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Thanks for your payment! Your receipt is attached.</p></body><=
+/html>
+
+--===============7924902931252532667==--
+
+--===============2774164337379732889==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="receipt.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy
+Y2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAov
+QmFzZUZvbnQgL0hlbHZldGljYSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjEg
+L1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9CYXNlRm9u
+dCAvSGVsdmV0aWNhLUJvbGQgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YyIC9T
+dWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKNCAwIG9iago8PAovQ29udGVudHMg
+OCAwIFIgL01lZGlhQm94IFsgMCAwIDYxMiA3OTIgXSAvUGFyZW50IDcgMCBSIC9SZXNvdXJjZXMg
+PDwKL0ZvbnQgMSAwIFIgL1Byb2NTZXQgWyAvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1h
+Z2VJIF0KPj4gL1JvdGF0ZSAwIC9UcmFucyA8PAoKPj4gCiAgL1R5cGUgL1BhZ2UKPj4KZW5kb2Jq
+CjUgMCBvYmoKPDwKL1BhZ2VNb2RlIC9Vc2VOb25lIC9QYWdlcyA3IDAgUiAvVHlwZSAvQ2F0YWxv
+Zwo+PgplbmRvYmoKNiAwIG9iago8PAovQXV0aG9yIChhbm9ueW1vdXMpIC9DcmVhdGlvbkRhdGUg
+KEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvQ3JlYXRvciAoYW5vbnltb3VzKSAvS2V5d29yZHMg
+KCkgL01vZERhdGUgKEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExh
+YiBQREYgTGlicmFyeSAtIFwob3BlbnNvdXJjZVwpKSAKICAvU3ViamVjdCAodW5zcGVjaWZpZWQp
+IC9UaXRsZSAodW50aXRsZWQpIC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNyAwIG9iago8PAov
+Q291bnQgMSAvS2lkcyBbIDQgMCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago4IDAgb2JqCjw8
+Ci9GaWx0ZXIgWyAvQVNDSUk4NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDM0NAo+Pgpz
+dHJlYW0KR2F0Jkg1dGYqTCdGNC4pNS9tUVs2IlIqQjBtJVRKWGRxLV87ZUdNP1MnND1VVXBRUCJo
+cWpKKjRjIms/T01gMHNtdExLQW0hTDdyQUlVMTltTilcUSthNSZrI2ZubGhFWU5SKThuNEc9ciY6
+TV1PWVRUNks8MCdgPThuaiNkc141cG4lcXIwInROZDM1Xmt1VHJjJSRZJ1k0LEAzImhBLjAoXDJp
+PVVxVDFaYT9ucFY2TmIxayJyZ1xHKSFZcyNhV2tbMyZsPkJpNS9OW2QwUDJVTkdsYDZCViEuSkoo
+YCxWLWBrcXFFJm07NT0vXU5SLiclISouS19ZaV8mNiUoSFwrYWApSEVRM1BmIVhCY2whUzAwbCQw
+b14sZEclJiRBSDYkIkxsYm46IVssW1NuU1NYJ3FPLG1OJGxlNSRWVXJdJnBDYlw4W2tRaGxnSlwl
+QDU7N1Njfj5lbmRzdHJlYW0KZW5kb2JqCnhyZWYKMCA5CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAw
+MDAwMDA2MSAwMDAwMCBuIAowMDAwMDAwMTAyIDAwMDAwIG4gCjAwMDAwMDAyMDkgMDAwMDAgbiAK
+MDAwMDAwMDMyMSAwMDAwMCBuIAowMDAwMDAwNTE0IDAwMDAwIG4gCjAwMDAwMDA1ODIgMDAwMDAg
+biAKMDAwMDAwMDg0MyAwMDAwMCBuIAowMDAwMDAwOTAyIDAwMDAwIG4gCnRyYWlsZXIKPDwKL0lE
+IApbPDFjY2VkZjRhZTg2ZTFlNDM5ZWU2N2ZiNDNjYTVjYzQ1PjwxY2NlZGY0YWU4NmUxZTQzOWVl
+NjdmYjQzY2E1Y2M0NT5dCiUgUmVwb3J0TGFiIGdlbmVyYXRlZCBQREYgZG9jdW1lbnQgLS0gZGln
+ZXN0IChvcGVuc291cmNlKQoKL0luZm8gNiAwIFIKL1Jvb3QgNSAwIFIKL1NpemUgOQo+PgpzdGFy
+dHhyZWYKMTMzNgolJUVPRgo=
+
+--===============2774164337379732889==--
