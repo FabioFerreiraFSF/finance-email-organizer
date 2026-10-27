@@ -1,0 +1,66 @@
+From: ar@northwind-advisory.example
+To: finance@northwind-advisory.example
+Subject: Invoice INV-2031 sent to Harbor Logistics
+Date: Sat, 17 Oct 2026 16:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6480401647683975147=="
+
+--===============6480401647683975147==
+Content-Type: multipart/alternative;
+ boundary="===============0123668478191893212=="
+
+--===============0123668478191893212==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Copy of the invoice we sent to Harbor Logistics.
+
+--===============0123668478191893212==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Copy of the invoice we sent to Harbor Logistics.</p></body></h=
+tml>
+
+--===============0123668478191893212==--
+
+--===============6480401647683975147==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="INV-2031.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy
+Y2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAov
+QmFzZUZvbnQgL0hlbHZldGljYSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjEg
+L1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9CYXNlRm9u
+dCAvSGVsdmV0aWNhLUJvbGQgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YyIC9T
+dWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKNCAwIG9iago8PAovQ29udGVudHMg
+OCAwIFIgL01lZGlhQm94IFsgMCAwIDYxMiA3OTIgXSAvUGFyZW50IDcgMCBSIC9SZXNvdXJjZXMg
+PDwKL0ZvbnQgMSAwIFIgL1Byb2NTZXQgWyAvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1h
+Z2VJIF0KPj4gL1JvdGF0ZSAwIC9UcmFucyA8PAoKPj4gCiAgL1R5cGUgL1BhZ2UKPj4KZW5kb2Jq
+CjUgMCBvYmoKPDwKL1BhZ2VNb2RlIC9Vc2VOb25lIC9QYWdlcyA3IDAgUiAvVHlwZSAvQ2F0YWxv
+Zwo+PgplbmRvYmoKNiAwIG9iago8PAovQXV0aG9yIChhbm9ueW1vdXMpIC9DcmVhdGlvbkRhdGUg
+KEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvQ3JlYXRvciAoYW5vbnltb3VzKSAvS2V5d29yZHMg
+KCkgL01vZERhdGUgKEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExh
+YiBQREYgTGlicmFyeSAtIFwob3BlbnNvdXJjZVwpKSAKICAvU3ViamVjdCAodW5zcGVjaWZpZWQp
+IC9UaXRsZSAodW50aXRsZWQpIC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNyAwIG9iago8PAov
+Q291bnQgMSAvS2lkcyBbIDQgMCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago4IDAgb2JqCjw8
+Ci9GaWx0ZXIgWyAvQVNDSUk4NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDMzNwo+Pgpz
+dHJlYW0KR2F0Jkg5aSZZXCRqUFllSWAzaFIhPiRpJjxpJyM9bGlVK2FDbVRzKVE/P0srOTtdLStt
+R0FTYiNXKWh0TTU7MUNxNj1LRVFrL0ozSS9tamwlbzM+Zk8/NjhPLV1lTHRFbic4NDhHKV5sYl5d
+NlY5YUhKMUA/OmBMWEJhNkE1RTRMWUVJMElDQ1grPmNxKDpZSGpQOkAwZ0pINFVzNVBObFxVPShd
+Y0tFQy9IOC0uJV1mZUJOOTNjJnQ8NWRJV19RQHAjQDRiR1tCJkpXK0xmZCZaMyUwTWVidE1EMVxk
+Wm9iZnNoNj9YJV83Y2gnMDxoPllUSUheLFhtN2xTRV8oLl1cUS9kP0kuTidrOGE2USR1ZTdNJFJu
+UVxQOmEicCgsYz1xaDI1QVoxK1c8XEM5SHRFXEEsaCNma1M6MiFJJWNbM3I6Ri1jPi1VOnVcOmh+
+PmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDkKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDYx
+IDAwMDAwIG4gCjAwMDAwMDAxMDIgMDAwMDAgbiAKMDAwMDAwMDIwOSAwMDAwMCBuIAowMDAwMDAw
+MzIxIDAwMDAwIG4gCjAwMDAwMDA1MTQgMDAwMDAgbiAKMDAwMDAwMDU4MiAwMDAwMCBuIAowMDAw
+MDAwODQzIDAwMDAwIG4gCjAwMDAwMDA5MDIgMDAwMDAgbiAKdHJhaWxlcgo8PAovSUQgCls8MmYw
+ZjdkNmI3MjhlNjZlMzhlNTI1OTBhMDg5MzhkNWU+PDJmMGY3ZDZiNzI4ZTY2ZTM4ZTUyNTkwYTA4
+OTM4ZDVlPl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBkb2N1bWVudCAtLSBkaWdlc3QgKG9w
+ZW5zb3VyY2UpCgovSW5mbyA2IDAgUgovUm9vdCA1IDAgUgovU2l6ZSA5Cj4+CnN0YXJ0eHJlZgox
+MzI5CiUlRU9GCg==
+
+--===============6480401647683975147==--

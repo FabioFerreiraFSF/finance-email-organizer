@@ -1,0 +1,67 @@
+From: billing@acme-supplies.example
+To: finance@northwind-advisory.example
+Subject: Reminder: Invoice INV-1042 is due soon
+Date: Fri, 16 Oct 2026 08:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6437884117068373546=="
+
+--===============6437884117068373546==
+Content-Type: multipart/alternative;
+ boundary="===============8454966590025452477=="
+
+--===============8454966590025452477==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Friendly reminder, the invoice is attached again.
+
+--===============8454966590025452477==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Friendly reminder, the invoice is attached again.</p></body></=
+html>
+
+--===============8454966590025452477==--
+
+--===============6437884117068373546==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="INV-1042.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy
+Y2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAov
+QmFzZUZvbnQgL0hlbHZldGljYSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjEg
+L1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9CYXNlRm9u
+dCAvSGVsdmV0aWNhLUJvbGQgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YyIC9T
+dWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKNCAwIG9iago8PAovQ29udGVudHMg
+OCAwIFIgL01lZGlhQm94IFsgMCAwIDYxMiA3OTIgXSAvUGFyZW50IDcgMCBSIC9SZXNvdXJjZXMg
+PDwKL0ZvbnQgMSAwIFIgL1Byb2NTZXQgWyAvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1h
+Z2VJIF0KPj4gL1JvdGF0ZSAwIC9UcmFucyA8PAoKPj4gCiAgL1R5cGUgL1BhZ2UKPj4KZW5kb2Jq
+CjUgMCBvYmoKPDwKL1BhZ2VNb2RlIC9Vc2VOb25lIC9QYWdlcyA3IDAgUiAvVHlwZSAvQ2F0YWxv
+Zwo+PgplbmRvYmoKNiAwIG9iago8PAovQXV0aG9yIChhbm9ueW1vdXMpIC9DcmVhdGlvbkRhdGUg
+KEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvQ3JlYXRvciAoYW5vbnltb3VzKSAvS2V5d29yZHMg
+KCkgL01vZERhdGUgKEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExh
+YiBQREYgTGlicmFyeSAtIFwob3BlbnNvdXJjZVwpKSAKICAvU3ViamVjdCAodW5zcGVjaWZpZWQp
+IC9UaXRsZSAodW50aXRsZWQpIC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNyAwIG9iago8PAov
+Q291bnQgMSAvS2lkcyBbIDQgMCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago4IDAgb2JqCjw8
+Ci9GaWx0ZXIgWyAvQVNDSUk4NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDQyNAo+Pgpz
+dHJlYW0KR2F0PWZiQVAwTiY0UT5AYEVkUWQ8Q2d0Ol9JTFdlJmVZWEU9QyYxT0srVFBYYWAxNUtw
+TjcsJldgJEc3W1VkSyljYWJqRzZVQyg5b2JrXWA+aT1rN0poaSxxLiFJXGkidFMqI2lzYUc8aXRJ
+ZFhgOUBgaSZXQV0jTHNfYXNaLDYzViQzUSExT18lQ2dFYm1YbCpsTC5ZaiM+PGxkMkciPiVuTHNU
+akhTUmtsQUlGTSltLD9FWVorMm5bIkg9NUEmOExlYzFXSmpjIUw6TmdcIyUrNSg+RCxucmtpMilZ
+SyRgOiRGKVhZPjVKPlVFR1dxIVxVPEg7ZXVQR05Hcjkwb1woTk1YLShUYiRnNEZhST08aTAyMFIz
+XS4iWHU/UlBzPmkwS0VUYy9BalUjZj8uXEZcdVc1V0xUIUdxNmkwVEE2YSswO0MjJUQrMEpRMEVQ
+P0kiVThKP0g1PHEqJ1kkXEdcbkZVbi9TbjNBIVAsVkM3Qm9uTU1IYygyTWUuUFwvckVHY2AmJzAh
+RlIySlQ9YGI9RXRGUSVmMjVeUFlEQSdEQ19AXl1+PmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDkK
+MDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDYxIDAwMDAwIG4gCjAwMDAwMDAxMDIgMDAwMDAg
+biAKMDAwMDAwMDIwOSAwMDAwMCBuIAowMDAwMDAwMzIxIDAwMDAwIG4gCjAwMDAwMDA1MTQgMDAw
+MDAgbiAKMDAwMDAwMDU4MiAwMDAwMCBuIAowMDAwMDAwODQzIDAwMDAwIG4gCjAwMDAwMDA5MDIg
+MDAwMDAgbiAKdHJhaWxlcgo8PAovSUQgCls8ODdkMzY0NmZiNWRjZDVkOGMzY2MwOWQxOWVhMzlh
+M2M+PDg3ZDM2NDZmYjVkY2Q1ZDhjM2NjMDlkMTllYTM5YTNjPl0KJSBSZXBvcnRMYWIgZ2VuZXJh
+dGVkIFBERiBkb2N1bWVudCAtLSBkaWdlc3QgKG9wZW5zb3VyY2UpCgovSW5mbyA2IDAgUgovUm9v
+dCA1IDAgUgovU2l6ZSA5Cj4+CnN0YXJ0eHJlZgoxNDE2CiUlRU9GCg==
+
+--===============6437884117068373546==--

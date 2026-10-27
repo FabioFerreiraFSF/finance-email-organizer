@@ -1,0 +1,10 @@
+[project]
+name = "finance-email-organizer"
+version = "1.0.0"
+description = "Files invoices, ACH remittance advices and receipts from a mailbox, with a standard name and folder."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

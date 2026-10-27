@@ -1,0 +1,65 @@
+From: hr@northwind-advisory.example
+To: finance@northwind-advisory.example
+Subject: Updated travel policy
+Date: Thu, 22 Oct 2026 11:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8633872525550338037=="
+
+--===============8633872525550338037==
+Content-Type: multipart/alternative;
+ boundary="===============1484857544470239347=="
+
+--===============1484857544470239347==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi all, the updated travel policy is attached.
+
+--===============1484857544470239347==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Hi all, the updated travel policy is attached.</p></body></htm=
+l>
+
+--===============1484857544470239347==--
+
+--===============8633872525550338037==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="travel_policy.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy
+Y2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAov
+QmFzZUZvbnQgL0hlbHZldGljYSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjEg
+L1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9CYXNlRm9u
+dCAvSGVsdmV0aWNhLUJvbGQgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YyIC9T
+dWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKNCAwIG9iago8PAovQ29udGVudHMg
+OCAwIFIgL01lZGlhQm94IFsgMCAwIDYxMiA3OTIgXSAvUGFyZW50IDcgMCBSIC9SZXNvdXJjZXMg
+PDwKL0ZvbnQgMSAwIFIgL1Byb2NTZXQgWyAvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1h
+Z2VJIF0KPj4gL1JvdGF0ZSAwIC9UcmFucyA8PAoKPj4gCiAgL1R5cGUgL1BhZ2UKPj4KZW5kb2Jq
+CjUgMCBvYmoKPDwKL1BhZ2VNb2RlIC9Vc2VOb25lIC9QYWdlcyA3IDAgUiAvVHlwZSAvQ2F0YWxv
+Zwo+PgplbmRvYmoKNiAwIG9iago8PAovQXV0aG9yIChhbm9ueW1vdXMpIC9DcmVhdGlvbkRhdGUg
+KEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvQ3JlYXRvciAoYW5vbnltb3VzKSAvS2V5d29yZHMg
+KCkgL01vZERhdGUgKEQ6MjAyNjEwMjYyMzQzNDcrMDAnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExh
+YiBQREYgTGlicmFyeSAtIFwob3BlbnNvdXJjZVwpKSAKICAvU3ViamVjdCAodW5zcGVjaWZpZWQp
+IC9UaXRsZSAodW50aXRsZWQpIC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNyAwIG9iago8PAov
+Q291bnQgMSAvS2lkcyBbIDQgMCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago4IDAgb2JqCjw8
+Ci9GaWx0ZXIgWyAvQVNDSUk4NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDMxNwo+Pgpz
+dHJlYW0KR2F0PlBZdGkxaidFdWpzP1pBUyRfU2YkMWRQNyFvJGpcJDgrIydybT9MLTZAbSVobmBq
+MTVMdShsQmtpXEFQaydtcjtuLm5hbmFcWVNPYHFpOD9XNig7KzAoYCVzO1xPbidMKTkpNEErNTw4
+YGZXWFInK0tCUjpJaWVHZiRhPT5cUyw0QzcoTytTREtDUFgiTGJyNkp0R1FOZjw1W0dkNiUhJ2Mj
+MTVfUTJZSD9FJEZiWj4mXCFaZ0dhXVQ7b2xkYCItM2JNUFZcJlsoSDdpT1IkSkMyZiNcLFtwO0hd
+V3FcUEktPF1RXjk4bDtiPjooakZUOTJAdW9PWj4pZTlSJHB1JlM2TG1GQztjRE1tIT5RVlBzLmNZ
+VisvISJkKXJGR281LU4vaTViWDBgT2VuMWhkb151IWwrMlRkfj5lbmRzdHJlYW0KZW5kb2JqCnhy
+ZWYKMCA5CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDA2MSAwMDAwMCBuIAowMDAwMDAwMTAy
+IDAwMDAwIG4gCjAwMDAwMDAyMDkgMDAwMDAgbiAKMDAwMDAwMDMyMSAwMDAwMCBuIAowMDAwMDAw
+NTE0IDAwMDAwIG4gCjAwMDAwMDA1ODIgMDAwMDAgbiAKMDAwMDAwMDg0MyAwMDAwMCBuIAowMDAw
+MDAwOTAyIDAwMDAwIG4gCnRyYWlsZXIKPDwKL0lEIApbPDRmYmY3OTMxMzM2M2JjNzBlZTY5YTIw
+YzczOTVmOGFhPjw0ZmJmNzkzMTMzNjNiYzcwZWU2OWEyMGM3Mzk1ZjhhYT5dCiUgUmVwb3J0TGFi
+IGdlbmVyYXRlZCBQREYgZG9jdW1lbnQgLS0gZGlnZXN0IChvcGVuc291cmNlKQoKL0luZm8gNiAw
+IFIKL1Jvb3QgNSAwIFIKL1NpemUgOQo+PgpzdGFydHhyZWYKMTMwOQolJUVPRgo=
+
+--===============8633872525550338037==--

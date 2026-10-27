@@ -1,0 +1,14 @@
+pypdf>=4.0
+requests>=2.31
+python-dotenv>=1.0
+pydantic>=2.0
+msal>=1.28          # only for --outlook
+truststore>=0.9     # optional: Windows certificate store behind corporate proxies
+
+# Optional extras
+# ollama            # local AI backup extraction (USE_LOCAL_AI=1)
+# pymupdf pytesseract pillow   # OCR for scanned PDFs
+
+# Development
+pytest>=8.0
+reportlab>=4.0      # only to regenerate the sample inbox (scripts/make_samples.py)
